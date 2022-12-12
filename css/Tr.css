@@ -1,0 +1,27 @@
+body,html{
+    background: url(../ef.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    font-family: monospace;
+  }
+  .prof-pic{
+    border-radius:50%;
+    height:200px;
+    width: 200px;
+  }
+  ul li{
+    font-size: 30px;
+    list-style-type: none;
+  }
+  .prof-box{
+    width:900px;
+    height: 1000px;
+    background: rgba(0,0,0,0.5);
+    padding:40px;
+    color: #fff;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
